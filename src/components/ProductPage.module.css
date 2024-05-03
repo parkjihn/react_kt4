@@ -1,0 +1,38 @@
+.productDetails {
+    padding: 20px;
+    max-width: 600px;
+    margin: auto;
+}
+
+.productImage {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.productTitle {
+    font-size: 24px;
+    color: #333;
+    margin-top: 20px;
+}
+
+.productDescription {
+    color: #666;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.productPrice {
+    font-size: 20px;
+    color: darkgreen;
+    margin-top: 10px;
+}
+
+.backButton {
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #f0f0f0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

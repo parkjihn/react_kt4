@@ -1,0 +1,15 @@
+.notFoundContainer {
+    text-align: center;
+    padding: 50px;
+}
+
+.notFoundText {
+    font-size: 24px;
+    color: #900;
+}
+
+.linkToProducts {
+    color: #00f;
+    text-decoration: none;
+    font-size: 18px;
+}
